@@ -58,7 +58,6 @@ namespace Tutorial_Projeto_API
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
                 endpoints.MapControllers();
             });
         }

@@ -14,7 +14,7 @@ namespace Tutorial_Projeto_API.Controllers
     {
 
         private readonly ProdutosService _ProdutosService;
-        
+
         public ProdutosController(ProdutosService ProdutosService)
         {
             _ProdutosService = ProdutosService;
@@ -44,17 +44,17 @@ namespace Tutorial_Projeto_API.Controllers
             return CreatedAtRoute("getProduto", new { id = produto.Id.ToString() }, produto);
         }
 
-        [HttpPut("{id:length(24)}")]
-        public IActionResult Update(string id, Produto produtoIn)
+        [HttpPut("{codigo}")]
+        public IActionResult Update(string codigo, Produto produtoIn)
         {
-            var prod = _ProdutosService.Get(id);
+            var prod = _ProdutosService.Get(codigo);
 
             if (prod == null)
             {
                 return NotFound();
             }
 
-            _ProdutosService.Update(id, produtoIn);
+            _ProdutosService.Update(codigo, produtoIn);
 
             return NoContent();
         }

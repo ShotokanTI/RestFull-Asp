@@ -25,7 +25,8 @@ namespace Modelo.Service.Services
             _Produtos.Find(Produtos => true).ToList();
 
         public Produto Get(string id) =>
-            _Produtos.Find<Produto>(Produtos => Produtos.Codigo == id || Produtos.Marca == id || Produtos.Nome == id).FirstOrDefault();
+
+            _Produtos.Find<Produto>(Produtos => Produtos.Codigo == id || Produtos.Marca == id || Produtos.Nome == id || Produtos.Id == id).FirstOrDefault();
 
         public Produto Create(Produto Produtos)
         {
