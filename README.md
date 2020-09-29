@@ -3,12 +3,12 @@
 
 <h1>Como usar?</h1>
 
-METHOD GET
+<h1>METHOD GET</h1>
 
 <p>Para retornar todos os produtos dominio + api/produtos</p>
 <p>Para retornar produtos especificos dominio + api/produtos/{id}</p>
 
-METHOD POST
+<h1>METHOD POST</h1>
 
 <p>Para adicionar um produto é preciso preencher o body da requisição</p>
 
@@ -24,7 +24,7 @@ METHOD POST
 }'});
 
 
-METHOD PUT 
+<h1>METHOD PUT</h1>
 
 <p>Para dar update em alguma coleção use </p>
 
@@ -40,7 +40,7 @@ METHOD PUT
 }'});
 
 
-METHOD DELETE
+<h1>METHOD DELETE</h1>
 
 <p>Para DELETAR produtos especificos dominio + api/produtos/{id}</p>
 
