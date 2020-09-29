@@ -26,7 +26,7 @@
 
 <h1>METHOD PUT</h1>
 
-<p>Para dar update em alguma coleção use </p>
+<p>Para dar update em alguma coleção de Produtos use </p>
 
 (dominio+api/produtos/{id}, {method: 'PUT', body: '{
         "Id": "5f7315394d13228bfefe342f"
@@ -42,6 +42,6 @@
 
 <h1>METHOD DELETE</h1>
 
-<p>Para DELETAR produtos especificos dominio + api/produtos/{id}</p>
+<p>Para DELETAR produtos especificos use dominio + api/produtos/{id}</p>
 
 
