@@ -1,0 +1,17 @@
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.deps.json
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.dll
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.pdb
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.dll
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.pdb
+C:\Users\Matheus\source\repos\Tutorial_Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.deps.json
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.dll
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\bin\Debug\netcoreapp3.1\Modelo.Domain.pdb
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.dll
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Domain\obj\Debug\netcoreapp3.1\Modelo.Domain.pdb

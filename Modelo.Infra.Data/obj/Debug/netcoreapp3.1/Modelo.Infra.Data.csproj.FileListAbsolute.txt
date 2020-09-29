@@ -1,0 +1,8 @@
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.deps.json
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.dll
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\bin\Debug\netcoreapp3.1\Modelo.Infra.Data.pdb
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.dll
+C:\Users\Matheus\source\repos\Projeto_API\Modelo.Infra.Data\obj\Debug\netcoreapp3.1\Modelo.Infra.Data.pdb

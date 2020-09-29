@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vq1/XCp7uLCcsvmc+6lAPFY30meUF77SFhRJ2oGNGn95Bvbhqng/bAFoQ78KU1Rp0lVyGXFhCT3n4FVAVTTGGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\source\\repos\\Projeto_API\\Modelo.Domain\\Modelo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512",
+    "C:\\Users\\Matheus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
